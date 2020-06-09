@@ -1,0 +1,29 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(fabrics.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+font-size: 3rem;
+color:rgb(143, 2, 2);
+}
+.btn{
+    
+}
+
+.btn-xl{
+    padding: 1rem 2rem;
+}
+.texting_window {
+    margin-bottom: 0px;
+    width: 900px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: rgba(220, 220, 220, 0.63);
+}
